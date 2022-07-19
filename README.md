@@ -1,6 +1,6 @@
 # View deployed application
 
-Open [React Theme Setter](https://react-theme-setter.netlify.app/) to view it in your browser.\
+Open [React Theme Setter](https://react-theme-setter.netlify.app/) to view it in your browser.
 
 ## Getting Started with Create React App
 
